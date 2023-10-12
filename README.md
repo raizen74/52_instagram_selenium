@@ -1,0 +1,2 @@
+# Instagram following bot
+This program logins in your Instagram account and follows people who follow a target account, in this example the target account is **chefsteps**. All the process is done automatically with the *selenium driver*.
